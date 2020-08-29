@@ -1,0 +1,10 @@
+C:\Users\IrynaOvcharenko\source\repos\lzw\lzw\bin\Debug\lzw.exe.config
+C:\Users\IrynaOvcharenko\source\repos\lzw\lzw\bin\Debug\lzw.exe
+C:\Users\IrynaOvcharenko\source\repos\lzw\lzw\bin\Debug\lzw.pdb
+C:\Users\IrynaOvcharenko\source\repos\lzw\lzw\obj\Debug\lzw.csprojAssemblyReference.cache
+C:\Users\IrynaOvcharenko\source\repos\lzw\lzw\obj\Debug\lzw.Properties.Resources.resources
+C:\Users\IrynaOvcharenko\source\repos\lzw\lzw\obj\Debug\lzw.csproj.GenerateResource.cache
+C:\Users\IrynaOvcharenko\source\repos\lzw\lzw\obj\Debug\lzw.csproj.CoreCompileInputs.cache
+C:\Users\IrynaOvcharenko\source\repos\lzw\lzw\obj\Debug\lzw.exe
+C:\Users\IrynaOvcharenko\source\repos\lzw\lzw\obj\Debug\lzw.pdb
+C:\Users\IrynaOvcharenko\source\repos\lzw\lzw\obj\Debug\lzw.Form1.resources
